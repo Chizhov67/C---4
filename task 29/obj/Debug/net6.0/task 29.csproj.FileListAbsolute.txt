@@ -1,0 +1,15 @@
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\bin\Debug\net6.0\task 29.exe
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\bin\Debug\net6.0\task 29.deps.json
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\bin\Debug\net6.0\task 29.runtimeconfig.json
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\bin\Debug\net6.0\task 29.dll
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\bin\Debug\net6.0\task 29.pdb
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\obj\Debug\net6.0\task 29.csproj.AssemblyReference.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\obj\Debug\net6.0\task 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\obj\Debug\net6.0\task 29.AssemblyInfoInputs.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\obj\Debug\net6.0\task 29.AssemblyInfo.cs
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\obj\Debug\net6.0\task 29.csproj.CoreCompileInputs.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\obj\Debug\net6.0\task 29.dll
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\obj\Debug\net6.0\refint\task 29.dll
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\obj\Debug\net6.0\task 29.pdb
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\obj\Debug\net6.0\task 29.genruntimeconfig.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ4\C---4\task 29\obj\Debug\net6.0\ref\task 29.dll
